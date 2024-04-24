@@ -32,10 +32,12 @@ public class Order {
     private Date createdAt;
     @ManyToOne
     private Address deliveryAddress;
-//    private Payment payment;
+
 
     @OneToMany
     private List<OrderItem> items;
+
+    //    private Payment payment;
     private int totalItem;
     private int totalPrice;
 
