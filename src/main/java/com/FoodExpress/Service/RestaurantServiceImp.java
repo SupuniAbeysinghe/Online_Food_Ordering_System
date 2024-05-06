@@ -7,7 +7,7 @@ import com.FoodExpress.model.Users;
 import com.FoodExpress.repository.AddressRepository;
 import com.FoodExpress.repository.RestaurantRepository;
 import com.FoodExpress.repository.UserRepository;
-import com.FoodExpress.response.CreateRestaurantRequest;
+import com.FoodExpress.request.CreateRestaurantRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

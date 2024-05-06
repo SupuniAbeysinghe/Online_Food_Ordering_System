@@ -5,7 +5,6 @@ import com.FoodExpress.Service.UserService;
 import com.FoodExpress.dto.RestaurantDto;
 import com.FoodExpress.model.Restaurant;
 import com.FoodExpress.model.Users;
-import com.FoodExpress.response.CreateRestaurantRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

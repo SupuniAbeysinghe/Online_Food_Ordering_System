@@ -4,7 +4,7 @@ import com.FoodExpress.Service.RestaurantService;
 import com.FoodExpress.Service.UserService;
 import com.FoodExpress.model.Restaurant;
 import com.FoodExpress.model.Users;
-import com.FoodExpress.response.CreateRestaurantRequest;
+import com.FoodExpress.request.CreateRestaurantRequest;
 import com.FoodExpress.response.MessageResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

@@ -1,4 +1,4 @@
-package com.FoodExpress.response;
+package com.FoodExpress.request;
 
 import com.FoodExpress.model.Address;
 import com.FoodExpress.model.ContactInformation;
